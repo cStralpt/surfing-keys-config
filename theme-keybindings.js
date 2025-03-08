@@ -163,8 +163,8 @@ addSearchAlias('y', 'yt', 'https://invidious.snopyta.org/search?q=', 's');
 // Uncomment to enable
 
 // Tomorrow-Night
-Hints.style('border: solid 2px #E195AB; color:#DE3163; background: initial; background-color: #E195AB;');
-Hints.style("border: solid 2px #8D77AB !important; padding: 1px !important; color: #F9F6E6 !important; background: #8D77AB !important;", "text");
+Hints.style('border: solid 2px #C96868; color:#FADFA1; background: initial; background-color: #C96868;');
+Hints.style("border: solid 2px #624E88 !important; padding: 1px !important; color: #F5EFFF !important; background: #624E88 !important;", "text");
 Visual.style('marks', 'background-color: #52C19699;');
 Visual.style('cursor', 'background-color: #D91656;');
 
